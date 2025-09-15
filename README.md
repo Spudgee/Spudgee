@@ -20,7 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
-<img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="48" height="48" alt="shadcn/ui" />
 <img src="https://i.pinimg.com/474x/cb/03/e4/cb03e4961860f0271e6ac73e663f26fa.jpg" width="48" height="48" alt="Supabase" />
 <img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="tRPC" />
 <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=256&q=100" width="48" height="48" alt="Zod" />
